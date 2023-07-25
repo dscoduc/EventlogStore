@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("EventlogStore")]
 [assembly: AssemblyDescription("Adds an Eventlog Attribute Store to AD FS to allow logging of Relying Party Authentications")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Rackspace")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("EventlogStore")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
