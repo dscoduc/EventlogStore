@@ -18,3 +18,4 @@ Installation:
       types = ("Eventlog"), query = "RP: {0}; Name: {1}; IP: {2}; ReqID: {3}", 
       param = "<Add_RelyingPartyName_Here>", param = c1.Value, param = c2.Value, param = c3.Value);
 
+Reference: https://learn.microsoft.com/en-us/archive/blogs/cloudpfe/how-to-create-a-custom-attribute-store-for-active-directory-federation-services-3-0
